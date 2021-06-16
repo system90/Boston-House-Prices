@@ -1,2 +1,2 @@
 # Boston-House-Prices
-Boston House Prices prediction
+Predict house prices using backwards stepwise linear regression.
